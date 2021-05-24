@@ -30,6 +30,10 @@ The Internet Chat Application was my final project in the course "CS-494P/594-00
   ### 8. Bottom frame for activity status and error messages
   ![CouldNotConnect](https://user-images.githubusercontent.com/36131683/119308805-58d20180-bc22-11eb-8a1e-edd35007bd29.png)
   ![Error_messages](https://user-images.githubusercontent.com/36131683/119308810-5b345b80-bc22-11eb-9493-a10ba84a88ea.png)
+  
+ ## References 
+ https://www.youtube.com/watch?v=YXPyB4XeYLA (Tkinter Course - Create Graphic User Interfaces in Python Tutorial)
+ https://realpython.com/python-sockets/ (Python Socket module)
 
 
   
