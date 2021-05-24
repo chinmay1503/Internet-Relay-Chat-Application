@@ -16,7 +16,7 @@ The Internet Chat Application was my final project in the course "CS-494P/594-00
   ![List_Room_Members](https://user-images.githubusercontent.com/36131683/119308528-0395f000-bc22-11eb-8f18-912d10496297.png)
   
   ### 4. Members of a particular room can engage in group chat!
-  [Group_Chat](https://user-images.githubusercontent.com/36131683/119308472-ef51f300-bc21-11eb-9943-22155e971421.png)
+  ![Group_Chat](https://user-images.githubusercontent.com/36131683/119308472-ef51f300-bc21-11eb-9943-22155e971421.png)
   
   ### 5. Members can send private messages to each other
   ![personal_messages](https://user-images.githubusercontent.com/36131683/119308628-1f00fb00-bc22-11eb-9cd4-aa406de5ccde.png)
