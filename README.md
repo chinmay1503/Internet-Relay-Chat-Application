@@ -32,7 +32,7 @@ The Internet Chat Application was my final project in the course "CS-494P/594-00
   ![Error_messages](https://user-images.githubusercontent.com/36131683/119308810-5b345b80-bc22-11eb-9493-a10ba84a88ea.png)
   
  ## References 
- https://www.youtube.com/watch?v=YXPyB4XeYLA (Tkinter Course - Create Graphic User Interfaces in Python Tutorial)
+ https://www.youtube.com/watch?v=YXPyB4XeYLA (Tkinter Course - Create Graphic User Interfaces in Python Tutorial)  
  https://realpython.com/python-sockets/ (Python Socket module)
 
 
